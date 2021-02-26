@@ -1,0 +1,52 @@
+.mainWindow{
+   -fx-background-image:url('magasin.jpg');
+      -fx-background-repeat:stretch;
+      -fx-background-size:900 506;
+      -fx-background-position:center center;
+   
+}
+
+.LabelTitle{
+      -fx-background-color:#02adff;
+      -fx-text-fill:#f7f7f7;
+      -fx-font-size:26.0px;
+}
+.LabelTotal{
+
+-fx-text-fill:#ffffff;
+-fx-font-size:26.0px;
+}
+.LabelForm{
+-fx-text-fill:#007af4;
+
+}
+.button{
+ -fx-background-color:#454545;
+ -fx-border-color:#ff8040;
+ -fx-background-radius: 3.0, 2.0 ,2.0, 2.0;
+ -fx-text-fill:#ffffff;
+ -fx-font-size:14.0px;
+ -fx-pref-height:40.0px;
+  -fx-pref-width:190.0px;
+ 
+ 
+}
+.boxTotal {
+  -fx-background-color:#5b5b5b;
+  -fx-border-color:#223344;
+ 
+}
+.table-row-cell{
+  -fx-cell-size:40.0px;
+  -fx-font-size:14.0px;
+  -fx-alignment:CENTER-RIGHT;
+  -fx-border-width:0.009em;
+  -fx-border-color:#0079f2;
+ 
+}
+.titleTopWindow{
+ -fx-padding:7px;
+ -fx-font-size:25px;
+ -fx-background-color: lightblue;
+ 
+}
